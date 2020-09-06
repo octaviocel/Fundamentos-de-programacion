@@ -1,2 +1,2 @@
 P1_HackerRank
- ![Octavio](url-to-image)
+ ![Octavio](Hackerrank.png)
